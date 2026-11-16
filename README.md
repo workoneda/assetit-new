@@ -14,8 +14,6 @@ Aplikasi berbasis web modern dengan desain SaaS Dark Mode (Navy/Dark Blue) untuk
 ## 2. Akun Login Default
 | Role | Email | Username | Password | Hak Akses |
 |---|---|---|---|---|
-| **Administrator** | `admin@rsud.go.id` | `admin` | `password123` | Akses penuh seluruh fitur, manajemen pengguna, backup & reset produksi |
-| **Petugas IT** | `petugas@rsud.go.id` | `petugas` | `password123` | Kelola data aset, catat pemeliharaan, lihat laporan, cetak QR |
 
 ## 3. Cara Menjalankan di Server Lokal
 ```bash
